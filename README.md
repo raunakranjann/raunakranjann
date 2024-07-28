@@ -21,7 +21,7 @@ I'm a Second-year B.Tech Computer Science student at Siwan College of Engineerin
 
 - I love sketching in my free time!
 
-
+## 📈 Stats
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=raunakranjann)  
 
