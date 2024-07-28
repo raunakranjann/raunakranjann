@@ -4,8 +4,11 @@
 </h1>
 
 
+<div align="center">
+    I'm a Second-year B.Tech Computer Science student at Siwan College of Engineering and Management, located in Islamia Nagar, Siwan, Bihar.
+    <br>I have a passion for web development, programming, and sketching.
+</div>
 
-I'm a Second-year B.Tech Computer Science student at Siwan College of Engineering and Management, located in Islamia Nagar, Siwan, Bihar. I have a passion for web development, programming, and sketching.
 
 ## 🌱 What I'm currently learning
 
@@ -26,6 +29,7 @@ I'm a Second-year B.Tech Computer Science student at Siwan College of Engineerin
 
 - I love sketching in my free time!
 
+<hr>
 
 <h2 align="center">⚡ 📈 Github Stats ⚡</h2>
 <br>
