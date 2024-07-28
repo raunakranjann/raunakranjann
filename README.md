@@ -39,7 +39,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=raunakranjann&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=raunakranjann&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-    <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakranjann&hide_border=true&layout=compact" align="center"/>
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakranjann&&theme=transparent&bg_color=#FFB6C1border_color=#FFB6C1&show_icons=true&icon_color=30A3DC&title_color=#FFB6C1&text_color=FFF" align="center"/>
 </div>
 <br/>
 <hr/>
