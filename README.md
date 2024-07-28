@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Raunak Ranjan
 
-<!--
-**raunakranjann/raunakranjann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Second-year B.Tech Computer Science student at Siwan College of Engineering and Management, located in Islamia Nagar, Siwan, Bihar. I have a passion for web development, programming, and sketching.
 
-Here are some ideas to get you started:
+## 🌱 What I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Development
+- Programming
+
+## 🔭 What I'm working on
+
+- B.Tech Computer Science coursework and personal web development projects.
+
+## 📫 How to reach me
+
+- Email: raunakranjann@gmail.com
+- LinkedIn: Raunak Ranjan
+- Instagram: sketches_by_raunak
+- Website: http://raunak.atwebpages.com
+## ⚡ Fun fact
+
+- I love sketching in my free time!
+
+
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=raunakranjann)  
+
+
