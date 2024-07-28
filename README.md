@@ -25,4 +25,5 @@ I'm a Second-year B.Tech Computer Science student at Siwan College of Engineerin
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=raunakranjann)  
 
+![GitHub metrics](https://metrics.lecoq.io/raunakranjann)  
 
