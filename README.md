@@ -14,8 +14,9 @@
 
 ## 🌱 What I'm currently learning
 
-- Web Development
-- Programming
+- Web Development (html, css, javascript)
+- Programming language (C++)
+- Data Structure & Algorithm (In C++)
 
 ## 🔭 What I'm working on
 
