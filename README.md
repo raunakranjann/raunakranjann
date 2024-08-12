@@ -24,10 +24,10 @@
 
 ## 📫 How to reach me
 
-- Email: raunakranjann@gmail.com
+- Website: http://raunak.atwebpages.com
 - LinkedIn: Raunak Ranjan
 - Instagram: sketches_by_raunak
-- Website: http://raunak.atwebpages.com
+
 ## ⚡ Fun fact
 
 - I love sketching in my free time!
