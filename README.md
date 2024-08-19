@@ -27,7 +27,7 @@
 - Projects  : https://raunakranjann.github.io
 - Website   : http://raunak.atwebpages.com
 - LinkedIn  : Raunak Ranjan
-- Instagram : sketches_by_raunak
+- Instagram : <a href="https://www.instagram.com/sketches_by_raunak/">sketches_by_raunak</a>
 
 ## ⚡ Fun fact
 
