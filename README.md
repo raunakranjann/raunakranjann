@@ -24,10 +24,10 @@
 
 ## 📫 How to reach me
 
-- Projects : https://raunakranjann.github.io
-- Website: http://raunak.atwebpages.com
-- LinkedIn: Raunak Ranjan
-- Instagram: sketches_by_raunak
+- Projects  : https://raunakranjann.github.io
+- Website   : http://raunak.atwebpages.com
+- LinkedIn  : Raunak Ranjan
+- Instagram : sketches_by_raunak
 
 ## ⚡ Fun fact
 
