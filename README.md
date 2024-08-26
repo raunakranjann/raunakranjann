@@ -37,10 +37,15 @@
 <h2 align="center">⚡ 📈 Github Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=raunakranjann&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=raunakranjann&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/>
-    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakranjann&count_private=true&theme=react&border_radius=10" align="center"/>
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=raunakranjann&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    
+  
+   <img width=400 src="https://github-readme-stats.vercel.app/api?username=raunakranjann&show_icons=true&theme=react&rank_icon=github&border_radius=10&locale=en&layout=compact" alt="readme stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunakranjann&theme=react&border_radius=10&show_icons=true&locale=en&layout=compact" alt="raunakranjann" />
+
+  
+   
 </div>
 <br/>
 <hr/>
