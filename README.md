@@ -24,8 +24,7 @@
 
 ## 📫 How to reach me
 
-- Projects  : https://raunakranjann.github.io
-- Website   : http://raunak.atwebpages.com
+- Portfolio/Projects  : https://raunakranjann.github.io
 - LinkedIn  : Raunak Ranjan
 - Instagram : <a href="https://www.instagram.com/sketches_by_raunak/" target="_blank">sketches_by_raunak</a>
 
