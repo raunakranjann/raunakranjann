@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    I'm a Third - Year B.Tech Computer Science student 
+    I'm a Third - Year B.Tech Computer Science Student 
     <br> at Siwan College of Engineering and Management,
     <br>located in Islamia Nagar, Siwan, Bihar.
     <br>I have a passion for web development, programming, and sketching.
