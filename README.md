@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    I'm a Second-year B.Tech Computer Science student 
+    I'm a Third - Year B.Tech Computer Science student 
     <br> at Siwan College of Engineering and Management,
     <br>located in Islamia Nagar, Siwan, Bihar.
     <br>I have a passion for web development, programming, and sketching.
@@ -14,9 +14,10 @@
 
 ## 🌱 What I'm currently learning
 
-- Web Development (html, css, javascript)
-- Programming language (C++)
-- Data Structure & Algorithm (In C++)
+- Web Based Application Development 
+- Programming language (C# + OOP Concept 'in depth')
+- Dot NET Core
+- Asp.net MVC
 
 ## 🔭 What I'm working on
 
@@ -26,7 +27,7 @@
 
 - Portfolio/Projects  : https://raunakranjann.github.io
 - LinkedIn  : Raunak Ranjan
-- Instagram : <a href="https://www.instagram.com/sketches_by_raunak/" target="_blank">sketches_by_raunak</a>
+- Instagram : <a href="https://www.instagram.com/_rawnac/" target="_blank">raunak</a>
 
 ## ⚡ Fun fact
 
