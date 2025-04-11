@@ -26,7 +26,7 @@
 ## 📫 How to reach me
 
 - Portfolio/Projects  : https://raunakranjann.github.io
-- LinkedIn  : Raunak Ranjan
+- LinkedIn  : <a href="https://www.instagram.com/rawnac/" target="_blank">Raunak Ranjan</a>
 - Instagram : <a href="https://www.instagram.com/_rawnac/" target="_blank">raunak</a>
 
 ## ⚡ Fun fact
