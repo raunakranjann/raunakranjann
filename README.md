@@ -16,7 +16,7 @@
 
 - Web Based Application Development 
 - Programming language (Java)
-- Sprint Boot , Maven
+- Spring Boot , Maven
 - REST API
 
 ## 🔭 What I'm working on
