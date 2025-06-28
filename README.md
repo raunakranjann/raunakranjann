@@ -15,9 +15,9 @@
 ## 🌱 What I'm currently learning
 
 - Web Based Application Development 
-- Programming language (C# + OOP Concept 'in depth')
-- Dot NET Core
-- Asp.net MVC
+- Programming language (Java)
+- Sprint Boot , Maven
+- REST API
 
 ## 🔭 What I'm working on
 
