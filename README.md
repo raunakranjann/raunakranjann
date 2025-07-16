@@ -5,10 +5,9 @@
 
 
 <div align="center">
-    I'm a Third - Year B.Tech Computer Science Student 
-    <br> at Siwan College of Engineering and Management,
-    <br>located in Islamia Nagar, Siwan, Bihar.
-    <br>I have a passion for web development, programming, and sketching.
+    Pursuing a B.Tech in Computer Science from Siwan College of Engineering and Management, Bihar,<br> with a strong focus on web development and software programming. <br> Combines technical proficiency with a creative edge, driven by a passion for <br> building intuitive digital solutions and expressing ideas through sketching.
+
+
 </div>
 
 
