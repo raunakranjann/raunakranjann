@@ -70,6 +70,7 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Maven" title="Maven"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
 </div>
+<hr>
 <br/>  
 
 ![snake gif](https://github.com/raunakranjann/raunakranjann/blob/output/github-snake-dark.svg)
