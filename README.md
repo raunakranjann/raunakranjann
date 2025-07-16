@@ -72,3 +72,4 @@
 </div>
 <br/>  
 
+![snake gif](https://github.com/raunakranjann/raunakranjann/blob/output/github-snake-dark.svg)
