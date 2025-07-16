@@ -50,5 +50,4 @@
 <br/>
 <hr/>
 <br/>  
-![Snake animation](https://github.com/raunakranjann/raunakranjann/svg-only/dist/github-contribution-grid-snake.svg)
 
