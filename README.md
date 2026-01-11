@@ -14,17 +14,13 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
+
 
 ---
 
 ## 🌱 Currently Learning
 
-- Web-Based Application Development  
+- Web-Based Application Development / Backend Development 
 - Java Programming Language  
 - Spring Boot & Maven  
 - REST API Development  
@@ -33,8 +29,8 @@
 
 ## 🔭 Current Projects
 
-- Academic web apps & portfolio development  
-- Final-year B.Tech projects using Java & Spring Boot  
+
+- Final-year B.Tech projects using Java & Spring Boot and Many more...
 
 ---
 
@@ -48,18 +44,15 @@
 
 ## ⚡ Fun Fact
 
-> I love sketching in my free time — it inspires my creativity in programming too 🎨👨‍💻
+> I love sketching in my free time — but time is not free, so i cann't do that...
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+
 
 <div align="center">
   <img width="400" height="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=raunakranjann&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
-  
-  <img width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=raunakranjann&show_icons=true&theme=react&rank_icon=github&border_radius=10&locale=en&layout=compact" alt="GitHub Stats" />
-<!--
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunakranjann&theme=react&border_radius=10&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> -->
+
 </div>
 
 ---
@@ -85,7 +78,6 @@
 
 ---
 
-## 🐍 Contribution Graph Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/raunakranjann/raunakranjann/output/github-snake-dark.svg" alt="Snake animation" />
