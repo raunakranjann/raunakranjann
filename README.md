@@ -62,23 +62,14 @@
 
 ---
 
-## 🔭 Featured Engineering Projects
+## 🔭 Featured Projects
 
-### 📌 [Academic Analytics & Archival System](https://github.com/raunakranjann/Academic-Analytics_and_Archival-System)
-*Automated multi-source data ingestion, analytics, and PDF transcript archival pipeline.*
-- **Ecosystem:** Backend Architecture, Playwright, Relational Storage, Automated ETL
-- **Key Focus:** Headless data extraction, transactional integrity, scheduled jobs, and structured report archival.
-
-### 📌 [PixelPatrol: Automated UI Regression Testing Tool](https://github.com/raunakranjann/PixelPatrol)
-*High-precision visual regression tool detecting UI anomalies and rendering differences.*
-- **Ecosystem:** Algorithmic Processing, Systems Architecture, SQLite, Image Comparison
-- **Key Focus:** Image diffing algorithms, layout anomaly identification, and release candidate validation.
-
-### 📌 [College ID Card Generator](https://siwanscem.github.io/)
-*Modular client-side application for dynamic, bulk credential generation and templating.*
-- **Ecosystem:** React.js, JavaScript, Canvas Engine, Tailwind CSS
-- **Key Focus:** Client-side vector rendering, responsive state management, and real-time generation with zero server overhead.
-
+| Project | Domain | Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **[PixelPatrol](https://github.com/raunakranjann/PixelPatrol)** | Automated Testing | Java 21, Spring Boot, SQLite | Visual regression suite detecting pixel-level UI shifts. |
+| **[Academic Analytics](https://github.com/raunakranjann/Academic-Analytics_and_Archival-System)** | ETL & Ingestion | Spring Boot, Playwright, SQL | Headless data extraction, analytics, and PDF archival. |
+| **[Enterprise Asset Manager](https://github.com/raunakranjann/EnterpriseAssetManager)** | Enterprise Systems | C#, .NET Core, SQL Server | Modular asset lifecycle tracking and maintenance auditing. |
+| **[ID Card Generator](https://siwanscem.github.io/)** | Client-Side Tools | React, JavaScript, Canvas | Real-time batch credential generation in the browser. |
 ---
 
 ## ⚡ Tech Stack & Tools
